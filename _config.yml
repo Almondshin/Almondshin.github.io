@@ -1,16 +1,16 @@
-title:              Clean Blog
+title:              오리부리
 email:              almondshin8@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        동물탐정 오리
+author:             Almondshin
 baseurl:            "/"
 url:                "https://almondshin.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+#twitter_username:   SBootstrap
+github_username:    almondshin
+#facebook_username:  StartBootstrap
+instagram_username: almond_shin
+#linkedin_username: almondshin8
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
