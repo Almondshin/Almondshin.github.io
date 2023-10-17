@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 excerpt: "About Me"
 search: true
-last_modified_at: 2020-01-23T13:00:00+09:00
 toc: true
 
 ---
@@ -16,23 +15,34 @@ padding: 5px;
 -moz-border-radius: 50%;
 -khtml-border-radius: 50%;
 -webkit-border-radius: 50%;
-"></center>
+" alt=""></center>
 
 
-* NAME : JiWon, Hyeon
+* NAME : GeonYoung, Shin
 * MAJOR : Computer Science Engineering
 
+
+## Education
+**Hanyang Cyber University | SEOUL**
+- Computer Science Engineering| Expected Diploma 2027
+- Prominent Coursework: Programming Languages and Data Structures,Computer Networks
+
+**Kookje University | Pyeongtaek**
+- Department of Show Entertainment Marketing | Dropout 2016
+- Prominent Coursework: Video Production, Public Relations Design
+
 ## Career & Activities
-- Undergraduate resercher at Embedded System LAB (2018.06 ~ 2020.12)
-- LikeLion 7th @SCH (2019.03 ~ 2019.12)
+- Service Server Developer at DreamSecurity (2022.07 ~ present)
+- Creating 3D promotional videos at LineCreative (2021.03 ~ 2021.12)
 
 ## Current Interest
-* Bigdata
-* Android Applicaiton
 * Web Development
-* Internet of Things
+* Test Code
+* Checking the internal system's performance
+* Addressing software bugs
+* Internet of Things..
 
 ## Contact
-* Email : zlone1208@gmail.com
-* Git : [https://github.com/Hyeonjiwon](https://github.com/Hyeonjiwon)
-* Blog : [https://hyeonjiwon.github.io/](https://hyeonjiwon.github.io/)
+* Email : almondshin8@gmail.com
+* Git : [https://github.com/Almondshin](https://github.com/Almondshin)
+* Blog : [https://almondshin.github.io/](https://almondshin.github.io/)
