@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              almondshin8@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/almondshin.github.io"
+baseurl:            "/"
 url:                "https://almondshin.github.io"
 
 # Social Profiles
