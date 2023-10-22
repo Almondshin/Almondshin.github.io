@@ -127,7 +127,7 @@ author:
       url: "https://github.com/almondshin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/almond_shin"
+#      url: "https://instagram.com/almond_shin"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/almond_shin"
+#      url: "https://instagram.com/almond_shin"
 
 
 # Reading Files
