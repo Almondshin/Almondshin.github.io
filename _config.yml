@@ -132,6 +132,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/almond_shin"
+    - label: "RESUME"
+      icon: "fa fa-file-pdf-o"
+      url: "https://github.com/Almondshin/Almondshin.github.io/files/13215914/default.pdf"
 
 # Site Footer
 footer:
