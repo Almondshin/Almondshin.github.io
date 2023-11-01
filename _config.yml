@@ -134,7 +134,8 @@ author:
 #      url: "https://instagram.com/almond_shin"
     - label: "RESUME"
       icon: "fas fa-file-pdf"
-      url: "https://github.com/Almondshin/Almondshin.github.io/files/13215914/default.pdf"
+      url1: "https://github.com/Almondshin/Almondshin.github.io/files/13227744/RESUME.pdf"
+      url2: "https://github.com/Almondshin/Almondshin.github.io/files/13227743/CV.pdf"
 
 # Site Footer
 footer:
@@ -153,8 +154,8 @@ footer:
       # url:
     - label: "RESUME"
       icon: "fas fa-file-pdf"
-      url1: "[RESUME.pdf](https://github.com/Almondshin/Almondshin.github.io/files/13227744/RESUME.pdf)"
-      url2: "[CV.pdf](https://github.com/Almondshin/Almondshin.github.io/files/13227743/CV.pdf)"
+      url1: "https://github.com/Almondshin/Almondshin.github.io/files/13227744/RESUME.pdf"
+      url2: "https://github.com/Almondshin/Almondshin.github.io/files/13227743/CV.pdf"
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
