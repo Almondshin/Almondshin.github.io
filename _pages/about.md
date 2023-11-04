@@ -8,13 +8,13 @@ toc: true
 ---
 
 ## Profile
-<center><img src="/assets/img/blog_profile.png" width="30%" height="30%" style="
+<center><img src="/assets/img/blog_profile.png" width="25%" height="25%" style="
 border: 1px solid #cab6de;
-border-radius: 50%;
-padding: 5px;
+border-radius: 20%;
+padding: 8px;
 /*-moz-border-radius: 50%;*/
 /*-khtml-border-radius: 50%;*/
--webkit-border-radius: 50%;
+/*-webkit-border-radius: 50%;*/
 " alt=""></center>
 
 
