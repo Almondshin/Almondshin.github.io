@@ -20,11 +20,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "오리부리"
-title_separator          : "-"
+title                    : "세상을 구하기 싫은 오리"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "오리부리"
-description              : "느릴지 몰라도 아는 만큼 탐구하는 동물탐정 오리부리"
+name                     : "동물탐정 오리"
+description              : "일상의 모험 속에서 세계를 구하는 것보다 조용히 탐구하며 살고 싶은 오리의 이야기"
 url                      : "https://almondshin.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "almondshin/almondshin.github.io" # GitHub username/repo-name e.g.
@@ -36,7 +36,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "동물탐정 오리부리" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "세상을 구하기 싫은 오리" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
