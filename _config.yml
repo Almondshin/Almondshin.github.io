@@ -23,7 +23,7 @@ locale                   : "en-US"
 title                    : "세상을 구하기 싫은 오리"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "동물탐정 오리"
+name                     : "세상을 구하기 싫은 오리"
 description              : "일상의 모험 속에서 세계를 구하는 것보다 조용히 탐구하며 살고 싶은 오리의 이야기"
 url                      : "https://almondshin.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
