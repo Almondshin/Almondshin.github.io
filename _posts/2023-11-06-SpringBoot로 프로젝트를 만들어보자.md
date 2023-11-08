@@ -36,13 +36,47 @@ img
 ```html
 <div id="warp">
         <h1><img src="resources/images/tit_01.gif"
-             alt="휴대폰인증 서비스"
+             alt="서비스"
              width="188"
              height="18"></h1>
 </div>
 ```
 
 문제: jsp파일 내에서 window.open함수를 사용해서 페이지 이동 시키려고 하는데 whiteblank페이지가 나옴<br>
-원인: 도메인이 없는 상태에서 페이지 이동을하려고 하는 경우 mapping이 되어있어야 함<br>
+원인: '도메인이 없는 상태'?에서 페이지 이동을하려고 하는 경우 mapping이 되어있어야 함<br>
 해결: Controller에서 이동용 Getmapping을 생성<br>
 
+```javascript
+function jusoPopup() {
+    window.open("/jusoPopup", "pop", "width=570, height=420, scrollbars=yes");
+}
+```
+```java
+    @RequestMapping("/jusoPopup")
+    public String jusoPopup(){
+        return "menu/jusoPopup";
+    }
+```
+
+참고 블로그 - https://needjarvis.tistory.com/771
+
+문제: springboot mybatis 연동 시 config를 SqlSessionFactory를 사용할 지, mybatis-config.xml파일로 따로 만들어서 사용할지 정해야함<br>
+원인: <br>
+해결: <br>
+
+
+getter 쓰지말라고만 하고 가버리면 어떡해요
+
+
+객체의 제약조건을 외부에서 지정하여 사용할 때의 문제점 
+- 객체 내부의 값을 조작할 때 지켜야 하는 규칙들이 도메인 객체 내부가 아니라 외부의 객체들에 의해 조작되고 흩어져 구현되어있기 때문에
+어떤곳에서는 지켜지고 어떤곳에서는 안지켜지는 문제가 발생
+
+객체 변수를 private으로 선언하고 사용하더라도 각 값마다 조회 함수와 설정 함수를 제공한다면 구현을 외부로 노출하는 셈이다
+-> 변수 사이에 함수라는 계층을 넣었다고해서 구현이 저절로 감추어지는것이 아니다.
+-> .getMallId();
+
+
+개발자는 객체가 포함하는 자료를 표현할 가장 좋은 방법을 심각하게 고민해야 한다.
+아무 생각 없이 조회/설정 함수를 추가하는 방법이 가장 나쁘다.
+- 클린 코드 中
