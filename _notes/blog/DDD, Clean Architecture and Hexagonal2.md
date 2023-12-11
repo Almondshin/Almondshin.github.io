@@ -3,7 +3,6 @@ title: DDD, Clean Architecture and Hexagonal2
 format: list
 feed: show
 date: 10-11-2023
-permalink: /blog
 ---
 
 DDD를 더욱 발전시킨 '핵사고날 아키텍쳐(Hexagonal Architecture)'에 대해 알아보겠습니다. <br>

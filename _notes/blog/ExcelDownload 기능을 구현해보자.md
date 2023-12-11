@@ -3,7 +3,6 @@ title: ExcelDownload 기능을 구현해보자
 format: list
 feed: show
 date: 10-08-2023
-permalink: /blog
 ---
 
 Apache POI 라이브러리를 활용해서 <br>

@@ -3,7 +3,6 @@ title: DDD, Clean Architecture and Hexagonal
 format: list
 feed: show
 date: 10-11-2023
-permalink: /blog
 ---
 
 DDD 도메인 드리븐 디자인에 대하여 내가 느끼고 이해한 내용을 정리하려고 합니다.

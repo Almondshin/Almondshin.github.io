@@ -3,7 +3,6 @@ title: Clean code
 format: list
 feed: show
 date: 23-10-2023
-permalink: /blog
 ---
 
 ## 좋은코드?<br>
