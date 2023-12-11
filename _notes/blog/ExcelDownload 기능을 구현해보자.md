@@ -1,17 +1,9 @@
 ---
-title: "ExcelDownload 기능"
-excerpt: 'apache.poi'
-categories:
-  - Blog
-tags:
-  - Apache
-  - POI
-
-
-toc: true               #Table Of Contents 목차 
-author_profile: true    #작성자 프로필 출력 여부
-toc_sticky: true
-last_modified_at: 2023-08-10T14:20:00+09:00
+title: ExcelDownload 기능을 구현해보자
+format: list
+feed: show
+date: 10-08-2023
+permalink: /blog
 ---
 
 Apache POI 라이브러리를 활용해서 <br>

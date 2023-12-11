@@ -1,17 +1,9 @@
 ---
-title: DDD 방법론을 적용해보자 1
-excerpt: DDD 도메인 드리븐 디자인
-categories:
-  - Blog
-tags:
-  - DDD
-  - 도메인
-  - 주도
-  - 설계
-toc: true
-author_profile: true
-toc_sticky: true
-last_modified_at: 2023-11-10T17:00:00+09:00
+title: DDD, Clean Architecture and Hexagonal
+format: list
+feed: show
+date: 10-11-2023
+permalink: /blog
 ---
 
 DDD 도메인 드리븐 디자인에 대하여 내가 느끼고 이해한 내용을 정리하려고 합니다.

@@ -1,15 +1,9 @@
 ---
 title: Clean code
-excerpt: 
-categories:
-  - Blog
-tags:
-  - Clean
-  - Code
-toc: false
-author_profile: false
-toc_sticky: false
-last_modified_at: 2023-10-23T16:13:00+09:00
+format: list
+feed: show
+date: 23-10-2023
+permalink: /blog
 ---
 
 ## 좋은코드?<br>
